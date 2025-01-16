@@ -1,1 +1,10 @@
-"# yndx_algorithm_training" 
+## [Тренировки по алгоритмам 1.0](https://yandex.ru/yaintern/algorithm-training_2021)
+
+1. [Сложность, тестирование, особые случаи](https://contest.yandex.ru/contest/27393/problems/)
+2. [Линейный поиск](https://contest.yandex.ru/contest/27472/problems/)
+3. [Множества](https://contest.yandex.ru/contest/27663/problems/)
+4. [Словари и сортировка подсчётом](https://contest.yandex.ru/contest/27665/problems/)
+5. [Префиксные суммы и два указателя](https://contest.yandex.ru/contest/27794/problems/)
+6. [Бинарный поиск](https://contest.yandex.ru/contest/27844/problems/)
+7. [Сортировка событий](https://contest.yandex.ru/contest/27883/problems/)
+8. [Деревья](https://contest.yandex.ru/contest/28069/problems/)
