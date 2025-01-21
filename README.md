@@ -8,3 +8,14 @@
 6. [Бинарный поиск](https://contest.yandex.ru/contest/27844/problems/)
 7. [Сортировка событий](https://contest.yandex.ru/contest/27883/problems/)
 8. [Деревья](https://contest.yandex.ru/contest/28069/problems/)
+
+
+## [Тренировки по алгоритмам 2.0](https://yandex.ru/yaintern/algorithm-training_june_2021)
+
+
+1. Сложность, тестирование, особые случаи
+   - [B.](https://contest.yandex.ru/contest/28730/problems/)
+2. Линейный поиск
+   - [B.](https://contest.yandex.ru/contest/28738/problems/)
+3. Множества
+   - [B.](https://contest.yandex.ru/contest/28964/problems)
