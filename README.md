@@ -14,8 +14,10 @@
 
 
 1. Сложность, тестирование, особые случаи
-   - [B.](https://contest.yandex.ru/contest/28730/problems/)
+   - B. [https://contest.yandex.ru/contest/28730/problems/](https://contest.yandex.ru/contest/28730/problems/)
 2. Линейный поиск
-   - [B.](https://contest.yandex.ru/contest/28738/problems/)
+   - B. [https://contest.yandex.ru/contest/28738/problems/](https://contest.yandex.ru/contest/28738/problems/)
 3. Множества
-   - [B.](https://contest.yandex.ru/contest/28964/problems)
+   - B. [https://contest.yandex.ru/contest/28964/problems/](https://contest.yandex.ru/contest/28964/problems/)
+4. Словари и сортировка подсчётом
+   - B. [https://contest.yandex.ru/contest/28970/problems/](https://contest.yandex.ru/contest/28970/problems/)
