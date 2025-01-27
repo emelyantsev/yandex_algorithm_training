@@ -72,7 +72,7 @@ private:
 
 	std::vector<std::string> knownThemes;
 	std::vector<int> messageThemes;
-	std::unordered_map<std::string_view, int> themeCounts;
+	std::unordered_map<std::string, int> themeCounts;
 
 };
 
