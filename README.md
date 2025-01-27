@@ -21,3 +21,5 @@
    - B. [https://contest.yandex.ru/contest/28964/problems/](https://contest.yandex.ru/contest/28964/problems/)
 4. Словари и сортировка подсчётом
    - B. [https://contest.yandex.ru/contest/28970/problems/](https://contest.yandex.ru/contest/28970/problems/)
+5. Префиксные суммы и два указателя
+   - B. [https://contest.yandex.ru/contest/29075/problems/](https://contest.yandex.ru/contest/29075/problems/)
