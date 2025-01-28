@@ -23,3 +23,5 @@
    - B. [https://contest.yandex.ru/contest/28970/problems/](https://contest.yandex.ru/contest/28970/problems/)
 5. Префиксные суммы и два указателя
    - B. [https://contest.yandex.ru/contest/29075/problems/](https://contest.yandex.ru/contest/29075/problems/)
+6. Бинарный поиск
+   - B. [https://contest.yandex.ru/contest/29188/problems/](https://contest.yandex.ru/contest/29188/problems/)
