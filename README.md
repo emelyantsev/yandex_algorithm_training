@@ -12,7 +12,6 @@
 
 ## [Тренировки по алгоритмам 2.0](https://yandex.ru/yaintern/algorithm-training_june_2021)
 
-
 1. Сложность, тестирование, особые случаи
    - B. [https://contest.yandex.ru/contest/28730/problems/](https://contest.yandex.ru/contest/28730/problems/)
 2. Линейный поиск
@@ -25,3 +24,5 @@
    - B. [https://contest.yandex.ru/contest/29075/problems/](https://contest.yandex.ru/contest/29075/problems/)
 6. Бинарный поиск
    - B. [https://contest.yandex.ru/contest/29188/problems/](https://contest.yandex.ru/contest/29188/problems/)
+7. Сортировка событий
+   - B. [https://contest.yandex.ru/contest/29396/problems/](https://contest.yandex.ru/contest/29396/problems/)

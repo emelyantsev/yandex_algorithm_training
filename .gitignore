@@ -572,5 +572,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-alg/
