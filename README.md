@@ -26,3 +26,5 @@
    - B. [https://contest.yandex.ru/contest/29188/problems/](https://contest.yandex.ru/contest/29188/problems/)
 7. Сортировка событий
    - B. [https://contest.yandex.ru/contest/29396/problems/](https://contest.yandex.ru/contest/29396/problems/)
+8. Деревья
+   - B. [https://contest.yandex.ru/contest/29403/problems/](https://contest.yandex.ru/contest/29403/problems/)
