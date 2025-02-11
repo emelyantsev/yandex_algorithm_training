@@ -32,5 +32,4 @@
 
 ## [Тренировки по алгоритмам 3.0](https://yandex.ru/yaintern/training/algorithm-training_feb_2023)
 
-2. Стеки
-   - B. [https://contest.yandex.ru/contest/45468/problems/](https://contest.yandex.ru/contest/45468/problems/)
+- [https://contest.yandex.ru/contest/45468/problems/](https://contest.yandex.ru/contest/45468/problems/)
