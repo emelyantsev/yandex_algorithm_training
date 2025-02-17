@@ -26,7 +26,7 @@ public:
 		std::vector<T>::pop_back();
 	}
 
-	VerboseVector<T>& operator=(VerbouseVector<T>&& other) {
+	VerboseVector<T>& operator=(VerboseVector<T>&& other) {
 		std::cout << "ok\n";
 		std::vector<T>::operator=( other ) ;
 		return *this;
