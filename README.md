@@ -33,3 +33,9 @@
 ## [Тренировки по алгоритмам 3.0](https://yandex.ru/yaintern/training/algorithm-training_feb_2023)
 
 - [https://contest.yandex.ru/contest/45468/problems/](https://contest.yandex.ru/contest/45468/problems/)
+
+## [Тренировки по алгоритмам 4.0](https://yandex.ru/yaintern/training/algorithm-training_oct_2023)
+
+1. Сортировки: быстрая, слиянием и поразрядная
+- [https://contest.yandex.ru/contest/53029/problems/](https://contest.yandex.ru/contest/53029/problems/)
+
