@@ -39,3 +39,6 @@
 1. Сортировки: быстрая, слиянием и поразрядная
 - [https://contest.yandex.ru/contest/53029/problems/](https://contest.yandex.ru/contest/53029/problems/)
 
+
+## [Тренировки по алгоритмам 7.0](https://yandex.ru/yaintern/training/algorithm-training)
+
