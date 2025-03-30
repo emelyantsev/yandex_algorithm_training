@@ -41,4 +41,5 @@
 
 
 ## [Тренировки по алгоритмам 7.0](https://yandex.ru/yaintern/training/algorithm-training)
+-  [Разминка](https://contest.yandex.ru/contest/74963/problems/)
 
