@@ -38,7 +38,8 @@
 
 1. Сортировки: быстрая, слиянием и поразрядная
 - [https://contest.yandex.ru/contest/53029/problems/](https://contest.yandex.ru/contest/53029/problems/)
-
+2. Хеши для строк
+- [https://contest.yandex.ru/contest/53030/problems/](https://contest.yandex.ru/contest/53030/problems/)
 
 ## [Тренировки по алгоритмам 7.0](https://yandex.ru/yaintern/training/algorithm-training)
 -  [Разминка](https://contest.yandex.ru/contest/74963/problems/)
