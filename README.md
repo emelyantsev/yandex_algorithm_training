@@ -41,3 +41,6 @@
 
 2. Хеши для строк
 - [https://contest.yandex.ru/contest/53030/problems/](https://contest.yandex.ru/contest/53030/problems/)
+
+3. Кратчайшие пути во взвешенных графах
+- [https://contest.yandex.ru/contest/53031/problems/](https://contest.yandex.ru/contest/53031/problems/)
