@@ -34,6 +34,7 @@
 
 - [https://contest.yandex.ru/contest/45468/problems/](https://contest.yandex.ru/contest/45468/problems/)
 
+
 ## [Тренировки по алгоритмам 4.0](https://yandex.ru/yaintern/training/algorithm-training_oct_2023)
 
 1. Сортировки: быстрая, слиянием и поразрядная
@@ -41,6 +42,10 @@
 2. Хеши для строк
 - [https://contest.yandex.ru/contest/53030/problems/](https://contest.yandex.ru/contest/53030/problems/)
 
+
 ## [Тренировки по алгоритмам 7.0](https://yandex.ru/yaintern/training/algorithm-training)
 -  [Разминка](https://contest.yandex.ru/contest/74963/problems/)
-
+-  [Лекция 1: Жадный алгоритм и задача о рюкзаке](https://contest.yandex.ru/contest/74964/problems/)
+-  [Лекция 2: Префиксные суммы, разреженная таблица, дерево отрезков](https://contest.yandex.ru/contest/74966/problems/)
+-  [Лекция 3: Битовые операции, исправляющие коды Хэмминга, сжатие данных (алгоритм Лемпела-Зива)](https://contest.yandex.ru/contest/74967/problems/)
+-  [Лекция 4: Ссылочные типы данных, двусвязные списки, B‑деревья](https://contest.yandex.ru/contest/74968/problems/)
