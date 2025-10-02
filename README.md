@@ -53,3 +53,7 @@
 -  [Лекция 2: Префиксные суммы, разреженная таблица, дерево отрезков](https://contest.yandex.ru/contest/74966/problems/)
 -  [Лекция 3: Битовые операции, исправляющие коды Хэмминга, сжатие данных (алгоритм Лемпела-Зива)](https://contest.yandex.ru/contest/74967/problems/)
 -  [Лекция 4: Ссылочные типы данных, двусвязные списки, B‑деревья](https://contest.yandex.ru/contest/74968/problems/)
+
+## [Тренировки по алгоритмам 8.0](https://yandex.ru/yaintern/training/algorithm-training)
+1. Тестирование и особые случаи. Множества и словари 
+- [https://contest.yandex.ru/contest/80939/problems/](https://contest.yandex.ru/contest/80939/problems/)
