@@ -13,6 +13,15 @@
             "cwd" : "${fileDirname}"
         },
         {
+            "name": "Python Debugger: Current File with input",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "cwd" : "${fileDirname}",
+            "args": ["<", "input.txt"]
+        },
+        {
             "name": "C/C++: g++ build and debug all cpp in folder",
             "type": "cppdbg",
             "request": "launch",
