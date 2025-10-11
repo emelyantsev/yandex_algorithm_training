@@ -45,3 +45,4 @@
 ## [Тренировки по алгоритмам 8.0](https://yandex.ru/yaintern/training/algorithm-training)
 
 1. [Тестирование и особые случаи. Множества и словари](https://contest.yandex.ru/contest/80939/problems/)
+2. [Динамическое программирование](https://contest.yandex.ru/contest/80940/problems/)
