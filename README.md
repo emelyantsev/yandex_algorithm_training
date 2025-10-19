@@ -46,3 +46,4 @@
 
 1. [Тестирование и особые случаи. Множества и словари](https://contest.yandex.ru/contest/80939/problems/)
 2. [Динамическое программирование](https://contest.yandex.ru/contest/80940/problems/)
+3. [Деревья, бинарный поиск](https://contest.yandex.ru/contest/80941/problems/)
