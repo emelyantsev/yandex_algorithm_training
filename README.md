@@ -33,6 +33,13 @@
 4. [Перебор и методы его оптимизации](https://contest.yandex.ru/contest/53032/problems/)
 
 
+## [Тренировки по алгоритмам 6.0](https://yandex.ru/yaintern/training/algorithm-training-october-2024)
+1.
+2.
+3.
+4. [Деревья, представления и обходы](https://contest.yandex.ru/contest/66795/problems/)
+
+
 ## [Тренировки по алгоритмам 7.0](https://yandex.ru/yaintern/training/algorithm-training-march-2025)
 
 -  [Разминка](https://contest.yandex.ru/contest/74963/problems/)
@@ -47,3 +54,4 @@
 1. [Тестирование и особые случаи. Множества и словари](https://contest.yandex.ru/contest/80939/problems/)
 2. [Динамическое программирование](https://contest.yandex.ru/contest/80940/problems/)
 3. [Деревья, бинарный поиск](https://contest.yandex.ru/contest/80941/problems/)
+4. [Префиксные суммы и два указателя. Сортировка событий)](https://contest.yandex.ru/contest/80942/problems/)
