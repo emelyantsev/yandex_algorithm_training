@@ -35,7 +35,7 @@
 
 ## [Тренировки по алгоритмам 6.0](https://yandex.ru/yaintern/training/algorithm-training-october-2024)
 1. [Тестирование](https://contest.yandex.ru/contest/66792/problems/)
-2.
+2. [Префиксные суммы и два указателя](https://contest.yandex.ru/contest/66793/problems/)
 3.
 4. [Деревья, представления и обходы](https://contest.yandex.ru/contest/66795/problems/)
 
