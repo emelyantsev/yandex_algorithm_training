@@ -87,5 +87,7 @@
         "valarray": "cpp",
         "variant": "cpp",
         "climits": "cpp"
-    }
+    },
+
+    "editor.inlayHints.enabled": "off"
 }
