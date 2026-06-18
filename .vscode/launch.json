@@ -19,7 +19,8 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "cwd" : "${fileDirname}",
-            "args": ["<", "input.txt"]
+            "args": ["<", "input.txt"],
+            "stopOnEntry": true
         },
         {
             "name": "C/C++: g++ build and debug all cpp in folder",
