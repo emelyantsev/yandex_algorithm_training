@@ -33,6 +33,9 @@
 4. [Перебор и методы его оптимизации](https://contest.yandex.ru/contest/53032/problems/)
 
 
+## [Тренировки по алгоритмам 5.0](https://yandex.ru/yaintern/training/algorithm-training_march_2024)
+
+
 ## [Тренировки по алгоритмам 6.0](https://yandex.ru/yaintern/training/algorithm-training-october-2024)
 1. [Тестирование](https://contest.yandex.ru/contest/66792/problems/)
 2. [Префиксные суммы и два указателя](https://contest.yandex.ru/contest/66793/problems/)
